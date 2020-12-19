@@ -1,0 +1,408 @@
+.padding1{
+    margin-top: 30px;
+    color: purple;
+    padding-top: 10px;
+    text-align: center;
+    font: Europa;
+}
+#bordernav{
+
+    border: 3px solid purple;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 15px;
+    
+    
+}
+#yes1{
+    padding-top: 10px;
+}
+#yes2{
+    text-align: center;
+    font-stretch: expanded;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: Eurostile;
+}
+#lower{
+    text-align: center;
+    color: blueviolet;
+    font: Europa;
+}
+#float{
+    width: 200px;
+    height: 200px;
+    padding-left: 80px;
+    
+}
+#computer{
+
+    padding-left: 80px;
+}
+#do{
+    background-color:blueviolet;
+    width: 1600px;
+    height: 500px;
+}
+#lower2{
+    text-align: center;
+    padding: 50px;
+}
+#p3{
+    
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    left: 440px;
+    top: 1000px;
+    
+}
+#col1{
+    border: 1px solid wheat;
+    border-radius: 50px;
+    
+    
+}
+#img1{
+    padding-left: 140px;
+    padding-top: 80px;
+
+}
+#designer{
+    text-align: center;
+}
+#p4{
+    text-align: center;
+}
+#p5{
+    color: blueviolet;
+    text-align: center;
+}
+#p6{
+    text-align: center;
+}
+#li1{
+    color: blueviolet;
+    text-align: center;
+    list-style-type: none;
+}
+.li2{
+    list-style-type: none;
+    text-align: center;
+}
+.con1{
+    border-radius: 10px;
+}
+#img2{
+    padding-left: 170px;
+    padding-top: 80px;
+}
+#col2{
+    border: 1px solid wheat;
+}
+#h3{
+    text-align: center;
+}
+#p7{
+    text-align: center;
+}
+#p8{
+    color: blueviolet;
+    text-align: center
+}
+#p9{
+    text-align: center;
+}
+#col10{
+    color: blueviolet;
+    list-style-type: none;
+    text-align: center;
+}
+.li4{
+    text-align: center;
+    list-style-type: none;
+}
+#lastimg{
+    padding-left: 170px;
+    padding-top: 80px;
+}
+#colh1{
+    text-align: center;
+}
+#lastcol{
+    border: 1px wheat solid;
+}
+#lastp1{
+    text-align: center;
+}
+#lastp2{
+    color: blueviolet;
+    text-align: center;
+}
+#lastp3{
+    text-align: center;
+}
+#lastcolli{
+    color: blueviolet;
+    text-align: center;
+    list-style-type: none;
+}
+.lastcolli{
+    text-align: center;
+    list-style-type: none;
+}
+#upper{
+    
+    margin-right: 100px;
+    background-color:white;
+}
+#jump{
+    position: relative;
+    bottom: 150px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+#work{
+    text-align: center;
+}
+#pro{
+    text-align: center;
+}
+#sir{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#nowcol1{
+    width: 300px;
+}
+#nowcol2{
+    width: 300px;
+    display: inline;
+}
+#nowcol3{
+    width: 300px;
+}
+#thencol1{
+    width: 300px;
+}
+#junior{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#thencol2{
+    width: 300px;
+}
+#thencol3{
+    width: 300px;
+}
+#hum{
+    text-align: center;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
+.center{
+    text-align: center;
+}
+
+.rust{
+    width: 220px;
+}
+#dogo{
+    background-color: blueviolet;
+    width: 1600px;
+    height: 300px;
+    
+}
+#lower22{
+    text-align: center;
+    padding: 50px;
+}
+#honda{
+    text-align: center;
+    width: 500px;
+    height: 250px;
+    position: relative;
+    left: 330px;
+}
+#border{
+    border: 1px solid wheat;
+    position: relative;
+    right: 50px;
+}
+#accer{
+    padding-top: 100px;
+    position: relative;
+    left: 50px;
+}
+#dell{
+    position: relative;
+    left: 10px;
+    text-align: center;
+}
+#hp{
+    position: relative;
+    left: 10px;
+    text-align: center;
+}
+#charger{
+    border: 1px solid wheat;
+
+}
+#pan{
+    padding-top: 100px;
+    position: relative;
+    left: 50px;
+}
+#alm{
+    position: relative;
+    left: 10px;
+    text-align: center;
+
+
+}
+#js{
+    position: relative;
+    left: 10px;
+    text-align: center;
+
+}
+#full{
+    border: 1px solid wheat;
+    position: relative;
+    right: 50px;
+
+}
+#mob{
+    padding-top: 100px;
+    position: relative;
+    left: 70px;  
+}
+#moz{
+    position: relative;
+    left: 30px;
+    text-align: center;
+
+}
+#qam{
+    position: relative;
+    left: 80px;
+    text-align: center;
+
+}
+#com{
+    background-color: white;
+    position: relative;
+    
+}
+#yush{
+    text-align: center;
+}
+#amma{
+    text-align: center;
+}
+#nona{
+    text-align: center;
+    border: 2px solid purple;
+    border-radius: 10px;
+    width: 200px;
+    position: relative;
+    left: 450px;
+    font: 100;
+}
+#tes{
+    text-align: center;
+}
+#ting{
+    text-align: center;
+}
+#pas{
+    position: relative;
+    left: 450px;
+}
+#farwa{
+    text-align: center;
+    width: 600px;
+    position: relative;
+    left: 300px;
+}
+#ts{
+    text-align: center;
+}
+#lea{
+    text-align: center;
+}
+
+
+#chit{
+    width: 1000px;
+    height: 70px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 210px;
+top: 5000px;
+    text-align: center;
+    padding-top: 100px;
+}
+#chitt{
+    width: 1200px;
+    height: 200px;
+    background-color: purple;
+    color: white;
+    position: relative;
+    
+    text-align: center;
+    padding-top: 100px;
+
+}
+@media screen and (max-width: 1000px){
+ #p3{
+    text-align: center;
+ }
+ #yes2{
+     text-align: center;
+     padding-left: 200px;
+ }  
+ #chit{
+     display: none;
+ } 
+
+
+
+}
+
+#newbro{
+    border-right: 2px solid wheat;
+}
+@media  screen and  (max-width:540 px){
+
+    #bordernav{
+        float: right;
+    }
+        
+    
+
+#yes2{
+    text-align: center;
+    float: left;
+    padding-right: 200px;
+}
+#lower{
+    text-align: center;
+    padding-left: 300px;
+}
+#yes1{
+    float: left;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#lea{
+    text-align: justify;
+    padding-left: 100px;
+}
+}
